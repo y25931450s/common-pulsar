@@ -145,13 +145,3 @@ Consumer 消费最大线程组大小 默认20
 
 
 
-pulsar控制台 
-
-线上  账号 pulsar 密码 pulsar
-
-http://47.96.187.122:9527/#/management/clusters
-
-QA和DEV  账号 pulsar 密码 pulsar
-
-http://172.16.1.182:9531/#/management/clusters
-
